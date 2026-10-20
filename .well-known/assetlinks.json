@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.effervescent_kulfi_c2dcd5.twa",
+        "sha256_cert_fingerprints": ["47:EB:A1:92:83:8C:38:59:E1:3F:6F:9E:6D:A5:67:11:BA:33:AB:E9:F5:C7:94:CF:39:89:44:5C:CD:FD:16:8C"]
+      }
+    }]

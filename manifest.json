@@ -1,0 +1,17 @@
+{
+  "name": "Little Genius – Learning Buddy",
+  "short_name": "Little Genius",
+  "description": "A playful tutor for ages 3 to 8: phonics, maths, words, stories and general knowledge.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E4F3FF",
+  "theme_color": "#7CC6FF",
+  "categories": ["education", "kids"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
